@@ -124,8 +124,8 @@
 .btn-copiar{
    position: relative;
    height: 45px;
-   width: 110px;
-   margin: 0 35px;
+   width: 100px;
+   margin: 0 100px;
    border-radius: 50px;
    border: none;
    outline: none;
@@ -287,9 +287,9 @@ footer{
     }
 
     .boton-copiar {
-        width: 80%;
-        left: 40%;
-        top: 5%;
+        width: 100%;
+        left: 44%;
+        top: 60%;
     }
 
     .btn-encriptar,
