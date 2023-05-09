@@ -241,6 +241,16 @@
     top: 15%;
 }
 
+footer{
+    font-family: "inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    background: #dfe5ff;
+}
+
 /*RESPONSIVE DESING*/
 
 @media (max-width: 57.5em) {
